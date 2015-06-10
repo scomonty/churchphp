@@ -1,0 +1,27 @@
+animsition {
+	z-index: 1000;
+}
+
+h1 {
+	font-size: 4.5em;
+}
+
+.pic1 {
+
+	border-radius: 5px;
+	border: 1px solid black;
+} 
+
+.sectwo {
+	border-left: 1px solid black;
+}
+
+footer{
+background-color: #101010;
+height: 50px;
+padding: 1.5em;
+position: absolute;
+left: 0;
+bottom: 0;
+width: 100%;
+}
